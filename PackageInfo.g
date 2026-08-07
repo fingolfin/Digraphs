@@ -576,6 +576,7 @@ Dependencies := rec(
                              ["GRAPE", ">=4.8.1"],
                              ["NautyTracesInterface", ">=0.2"],
                              ["AutoDoc", ">=2020.08.11"]],
+  TestPackages := [["GAPDoc", ">=1.6.3"]],
   ExternalConditions := [],
 ),
 
